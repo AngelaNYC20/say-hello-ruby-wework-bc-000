@@ -5,5 +5,5 @@ puts say_hello(name)
 end 
 
 puts say_hello()
-  puts "Hello Ruby Programmer!"
+  "Hello Ruby Programmer!"
 end 
